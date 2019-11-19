@@ -111,8 +111,8 @@ void swap(int n1,int n2)
 
 int main()
 {
-puts("RAGHAV\n CSE A2\n 1915060\n\
-VPO dhandra,DISTT. LUDHIANA");
+puts("Parkirat\n CSE A2\n 1915057\n\
+Doraha, Distt, Ludhiana");
 return 0;
 }
 ```
