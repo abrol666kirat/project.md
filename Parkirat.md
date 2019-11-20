@@ -1,10 +1,10 @@
 **PARKIRAT SINGH**
 
-#**COMPUTER SCIENCE**
+**COMPUTER SCIENCE**
 
-#***PPS COURSE***18105
+**PPS COURSE**18105
 
-#*1915057*
+**1915057**
 
                      Programming for Problem Solving
 **1) Program to print message**
